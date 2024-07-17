@@ -30,3 +30,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 This is Freddie making some changes...
 Hello 42
+
+<b>Miranda is learning to write webside code</b>
